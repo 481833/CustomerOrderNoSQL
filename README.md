@@ -8,7 +8,7 @@
 git clone https://github.com/481833/CustomerOrderNoSQL.git
 ```
 
-**2. Configure MongDB**
+**2. Configure MongoDB**
 
 First, create a database named `customerorderdb`. Then, open `src/main/resources/application.properties` file and change the spring datasource username and password as per your MongoDB installation.
 
